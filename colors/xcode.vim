@@ -59,3 +59,6 @@ hi StatusLine      guifg=#ffffff    guibg=#646464    gui=none     ctermfg=239   
 hi StatusLineNC    guifg=#969696    guibg=#f2f2f2    gui=none     ctermfg=249    ctermbg=NONE
 hi VertSplit       guifg=NONE       guibg=NONE       gui=none     ctermfg=15     ctermbg=15
 
+hi Pmenu           guifg=#000000    guibg=#d7bdff    gui=none     ctermfg=0      ctermbg=141
+hi PmenuSel        guifg=#ffffff    guibg=#7a25fa    gui=none     ctermfg=15     ctermbg=54
+
