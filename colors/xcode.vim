@@ -53,7 +53,7 @@ hi Character       guifg=#2934d4    guibg=NONE       gui=none     ctermfg=19    
 hi SpecialChar     guifg=#2934d4    guibg=NONE       gui=none     ctermfg=19     ctermbg=NONE
 
 hi Visual          guifg=NONE       guibg=#b3d8fd    gui=none     ctermfg=NONE   ctermbg=159
-hi Search          guifg=NONE       guibg=#b3d8fd    gui=none     ctermfg=NONE   ctermbg=159
+hi Search          guifg=NONE       guibg=#fbfac9    gui=none     ctermfg=NONE   ctermbg=229
 
 hi StatusLine      guifg=#ffffff    guibg=#646464    gui=none     ctermfg=239    ctermbg=255
 hi StatusLineNC    guifg=#969696    guibg=#f2f2f2    gui=none     ctermfg=249    ctermbg=NONE
