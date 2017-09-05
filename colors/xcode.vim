@@ -13,12 +13,6 @@ endif
 
 let g:colors_name = "xcode"
 
-if version >= 700
-    hi CursorLine      guifg=NONE       guibg=#f0f8ff    gui=none    ctermfg=NONE   ctermbg=NONE
-    hi CursorLineNR    guifg=#2e9dff    guibg=#f0f8ff    gui=bold    ctermfg=239    ctermbg=255
-    hi MatchParen      guifg=#ff0000    guibg=NONE       gui=bold    ctermfg=1      ctermbg=NONE
-endif
-
 hi Cursor          guifg=NONE       guibg=#b3d8fd    gui=none
 
 hi Normal          guifg=#000000    guibg=#ffffff    gui=none     ctermfg=0      ctermbg=NONE
@@ -27,8 +21,11 @@ hi NonText         guifg=#000000    guibg=#ffffff    gui=none     ctermfg=0     
 hi ColorColumn     guifg=NONE       guibg=#f9f9f9    gui=none     ctermfg=NONE   ctermbg=255
 
 hi LineNr          guifg=#969696    guibg=#f2f2f2    gui=none     ctermfg=249    ctermbg=NONE
+hi CursorLineNR    guifg=#2e9dff    guibg=#f0f8ff    gui=bold     ctermfg=239    ctermbg=255
+hi CursorLine      guifg=NONE       guibg=#f0f8ff    gui=none     ctermfg=NONE   ctermbg=NONE
 
 hi Error           guifg=#ff0000    guibg=NONE       gui=bold     ctermfg=1      ctermbg=NONE
+hi MatchParen      guifg=#ff0000    guibg=NONE       gui=bold     ctermfg=1      ctermbg=NONE
 
 hi Comment         guifg=#008311    guibg=NONE       gui=none     ctermfg=22     ctermbg=NONE
 hi Todo            guifg=#008311    guibg=NONE       gui=italic   ctermfg=22     ctermbg=NONE
