@@ -23,6 +23,7 @@ hi ColorColumn     guifg=NONE       guibg=#f9f9f9    gui=none     ctermfg=NONE  
 hi LineNr          guifg=#969696    guibg=#f2f2f2    gui=none     ctermfg=249    ctermbg=NONE
 hi CursorLineNR    guifg=#2e9dff    guibg=#f0f8ff    gui=bold     ctermfg=239    ctermbg=255
 hi CursorLine      guifg=NONE       guibg=#f0f8ff    gui=none     ctermfg=NONE   ctermbg=NONE
+hi CursorColumn    guifg=NONE       guibg=#f0f8ff    gui=none     ctermfg=NONE   ctermbg=NONE
 
 hi Error           guifg=#ff0000    guibg=NONE       gui=bold     ctermfg=1      ctermbg=NONE
 hi MatchParen      guifg=#ff0000    guibg=NONE       gui=bold     ctermfg=1      ctermbg=NONE
