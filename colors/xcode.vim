@@ -20,8 +20,9 @@ hi NonText         guifg=#000000    guibg=#ffffff    gui=none     ctermfg=0     
 
 hi ColorColumn     guifg=NONE       guibg=#f9f9f9    gui=none     ctermfg=NONE   ctermbg=255
 
-hi LineNr          guifg=#969696    guibg=#f2f2f2    gui=none     ctermfg=249    ctermbg=NONE
-hi CursorLineNR    guifg=#2e9dff    guibg=#f0f8ff    gui=bold     ctermfg=239    ctermbg=255
+hi VertSplit       guifg=#969696    guibg=#f2f2f2    gui=none     ctermfg=255    ctermbg=249
+hi LineNr          guifg=#969696    guibg=#f2f2f2    gui=none     ctermfg=249    ctermbg=255
+hi CursorLineNR    guifg=#2e9dff    guibg=#f0f8ff    gui=bold     ctermfg=NONE   ctermbg=NONE
 hi CursorLine      guifg=NONE       guibg=#f0f8ff    gui=none     ctermfg=NONE   ctermbg=NONE
 hi CursorColumn    guifg=NONE       guibg=#f0f8ff    gui=none     ctermfg=NONE   ctermbg=NONE
 
@@ -58,8 +59,7 @@ hi Search          guifg=NONE       guibg=#fbfac9    gui=none     ctermfg=NONE  
 
 hi StatusLine      guifg=#ffffff    guibg=#646464    gui=none     ctermfg=239    ctermbg=255
 hi StatusLineNC    guifg=#969696    guibg=#f2f2f2    gui=none     ctermfg=249    ctermbg=NONE
-hi VertSplit       guifg=NONE       guibg=NONE       gui=none     ctermfg=15     ctermbg=15
+hi WildMenu        guifg=#646464    guibg=#ffffff    gui=none     ctermfg=238    ctermbg=255
 
 hi Pmenu           guifg=#000000    guibg=#d7bdff    gui=none     ctermfg=0      ctermbg=141
 hi PmenuSel        guifg=#ffffff    guibg=#7a25fa    gui=none     ctermfg=15     ctermbg=54
-
