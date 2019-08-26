@@ -78,3 +78,8 @@ hi DiffText         guifg=NONE       guibg=#f2e496    gui=none     ctermfg=NONE 
 hi TabLine          guifg=#ffffff    guibg=#646464    gui=none     ctermfg=239    ctermbg=255     cterm=underline
 hi TabLineFill      guifg=#ffffff    guibg=#646464    gui=none     ctermfg=239    ctermbg=255     cterm=underline
 hi TabLineSel       guifg=#646464    guibg=#ffffff    gui=none     ctermfg=238    ctermbg=252     cterm=underline
+
+hi ErrorMsg         guifg=#ff0000    guibg=#ffffff    gui=bold     ctermfg=9      ctermbg=15      cterm=bold
+hi WarningMsg       guifg=#ff0000    guibg=#ffffff    gui=none     ctermfg=9      ctermbg=15      cterm=none
+hi MoreMsg          guifg=#000000    guibg=#ffffff    gui=none     ctermfg=0      ctermbg=15      cterm=none
+hi ModeMsg          guifg=#646464    guibg=#ffffff    gui=bold     ctermfg=239    ctermbg=15      cterm=bold
