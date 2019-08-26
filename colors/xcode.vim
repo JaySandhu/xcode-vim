@@ -27,6 +27,9 @@ hi CursorLineNR     guifg=#2e9dff    guibg=#f0f8ff    gui=none     ctermfg=39   
 hi CursorLine       guifg=NONE       guibg=#f0f8ff    gui=none     ctermfg=NONE   ctermbg=255     cterm=none
 hi CursorColumn     guifg=NONE       guibg=#f0f8ff    gui=none     ctermfg=NONE   ctermbg=NONE    cterm=none
 
+hi FoldColumn       guifg=#2e9dff    guibg=#f2f2f2    gui=none     ctermfg=39     ctermbg=255     cterm=none
+hi Folded           guifg=#2e9dff    guibg=#f2f2f2    gui=italic   ctermfg=255    ctermbg=39      cterm=italic
+
 hi Error            guifg=#ff0000    guibg=NONE       gui=bold     ctermfg=1      ctermbg=NONE    cterm=bold
 hi MatchParen       guifg=#ff0000    guibg=NONE       gui=bold     ctermfg=1      ctermbg=NONE    cterm=bold
 
