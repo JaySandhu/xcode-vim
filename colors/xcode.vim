@@ -15,8 +15,8 @@ let g:colors_name = "xcode"
 
 hi Cursor           guifg=NONE       guibg=#b3d8fd    gui=none
 
-hi Normal           guifg=#000000    guibg=#ffffff    gui=none     ctermfg=0      ctermbg=NONE    cterm=none
-hi NonText          guifg=#000000    guibg=#ffffff    gui=none     ctermfg=0      ctermbg=NONE    cterm=none
+hi Normal           guifg=#000000    guibg=#ffffff    gui=none     ctermfg=0      ctermbg=15      cterm=none
+hi NonText          guifg=#000000    guibg=#ffffff    gui=none     ctermfg=0      ctermbg=15      cterm=none
 
 hi ColorColumn      guifg=NONE       guibg=#f9f9f9    gui=none     ctermfg=NONE   ctermbg=255     cterm=none
 
