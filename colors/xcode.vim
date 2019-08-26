@@ -65,7 +65,7 @@ hi StatusLine       guifg=#ffffff    guibg=#646464    gui=none     ctermfg=239  
 hi StatusLineNC     guifg=#969696    guibg=#f2f2f2    gui=none     ctermfg=249    ctermbg=NONE    cterm=none
 hi StatusLineTerm   guifg=#ffffff    guibg=#2c9ac9    gui=none     ctermfg=239    ctermbg=87      cterm=none
 hi StatusLineTermNC guifg=#969696    guibg=#eaf6fb    gui=none     ctermfg=249    ctermbg=195     cterm=none
-hi WildMenu         guifg=#646464    guibg=#ffffff    gui=none     ctermfg=238    ctermbg=255     cterm=none
+hi WildMenu         guifg=#646464    guibg=#ffffff    gui=none     ctermfg=238    ctermbg=252     cterm=none
 
 hi Pmenu            guifg=#000000    guibg=#d7bdff    gui=none     ctermfg=0      ctermbg=141     cterm=none
 hi PmenuSel         guifg=#ffffff    guibg=#7a25fa    gui=none     ctermfg=15     ctermbg=54      cterm=none
