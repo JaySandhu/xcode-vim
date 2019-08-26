@@ -69,3 +69,8 @@ hi WildMenu         guifg=#646464    guibg=#ffffff    gui=none     ctermfg=238  
 
 hi Pmenu            guifg=#000000    guibg=#d7bdff    gui=none     ctermfg=0      ctermbg=141     cterm=none
 hi PmenuSel         guifg=#ffffff    guibg=#7a25fa    gui=none     ctermfg=15     ctermbg=54      cterm=none
+
+hi DiffAdd          guifg=NONE       guibg=#e6ffed    gui=none     ctermfg=NONE   ctermbg=157     cterm=none
+hi DiffDelete       guifg=#969696    guibg=#ffeef0    gui=none     ctermfg=249    ctermbg=224     cterm=none
+hi DiffChange       guifg=NONE       guibg=#fffbdd    gui=none     ctermfg=NONE   ctermbg=230     cterm=none
+hi DiffText         guifg=NONE       guibg=#f2e496    gui=none     ctermfg=NONE   ctermbg=222     cterm=none
