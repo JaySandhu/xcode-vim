@@ -83,3 +83,8 @@ hi ErrorMsg         guifg=#ff0000    guibg=#ffffff    gui=bold     ctermfg=9    
 hi WarningMsg       guifg=#ff0000    guibg=#ffffff    gui=none     ctermfg=9      ctermbg=15      cterm=none
 hi MoreMsg          guifg=#000000    guibg=#ffffff    gui=none     ctermfg=0      ctermbg=15      cterm=none
 hi ModeMsg          guifg=#646464    guibg=#ffffff    gui=bold     ctermfg=239    ctermbg=15      cterm=bold
+
+hi SpellBad         guisp=#ff0000    guifg=NONE       guibg=NONE   gui=undercurl  ctermfg=9       ctermbg=224    cterm=underline
+hi SpellCap         guisp=#0000ff    guifg=NONE       guibg=NONE   gui=undercurl  ctermfg=12      ctermbg=159    cterm=underline
+hi SpellLocal       guisp=#008080    guifg=NONE       guibg=NONE   gui=undercurl  ctermfg=5       ctermbg=225    cterm=underline
+hi SpellRare        guisp=#ff00ff    guifg=NONE       guibg=NONE   gui=undercurl  ctermfg=2       ctermbg=194    cterm=underline
